@@ -1,14 +1,17 @@
-export default function WhyUAndAI() {
-  return (
-    <section className="section">
-      <h2 style={{ textAlign: "center", marginBottom: "40px" }}>Why U&AI?</h2>
+import { useTranslation } from "react-i18next";
 
-      <ul style={{ maxWidth: "650px", marginLeft: "auto", marginRight: "auto", opacity: 0.9 }}  >
-        <li>Practical, real-life examples</li>
-        <li>Personalized approach</li>
-        <li>Clear explanations without overwhelm</li>
-        <li>Programs available in EN/SR</li>
-        <li>Learn from an experienced AI practitioner</li>
+export default function WhyUnAI() {
+  const { t } = useTranslation();
+  const items = t("why.list", { returnObjects: true });
+
+  return (
+    <section className="section center">
+      <h2>{t("why.title")}</h2>
+
+      <ul className="list">
+        {items.map((item, i) => (
+          <li key={i}>{item}</li>
+        ))}
       </ul>
     </section>
   );

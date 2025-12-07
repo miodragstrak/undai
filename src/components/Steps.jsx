@@ -1,32 +1,32 @@
+import { useTranslation } from "react-i18next";
+
 export default function Steps() {
+  const { t } = useTranslation();
+
   return (
-    <section className="section">
-      <h2 style={{ textAlign: "center", marginBottom: "40px" }}>
-        How It Works
-      </h2>
+    <section className="section" id="steps">
+      <h2>{t("steps.title")}</h2>
 
-      <div className="cards-row">
-
+      <div className="cards-grid">
         <div className="card">
-          <h3>Step 1</h3>
-          <p>Free 15-minute call to understand your goals.</p>
+          <h3>{t("steps.step1_title")}</h3>
+          <p>{t("steps.step1_text")}</p>
         </div>
 
         <div className="card">
-          <h3>Step 2</h3>
-          <p>1-on-1 AI mentoring tailored to your workflow.</p>
+          <h3>{t("steps.step2_title")}</h3>
+          <p>{t("steps.step2_text")}</p>
         </div>
 
         <div className="card">
-          <h3>Step 3</h3>
-          <p>Group program for learning AI fundamentals.</p>
+          <h3>{t("steps.step3_title")}</h3>
+          <p>{t("steps.step3_text")}</p>
         </div>
 
         <div className="card">
-          <h3>Step 4</h3>
-          <p>Advanced Masterclass + Certificate.</p>
+          <h3>{t("steps.step4_title")}</h3>
+          <p>{t("steps.step4_text")}</p>
         </div>
-
       </div>
     </section>
   );

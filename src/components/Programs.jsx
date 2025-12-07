@@ -1,46 +1,38 @@
+import { useTranslation } from "react-i18next";
+import { CALENDLY_FREE, CALENDLY_MENTORING, FORM_GROUP, FORM_MASTERCLASS } from "../config";
+
+
 export default function Programs() {
+  const { t } = useTranslation();
+
   return (
-    <section className="section" id="programs">
-      <h2 style={{ textAlign: "center", marginBottom: "40px" }}>
-        Choose Your Program
-      </h2>
+    <section className="section center" id="programs">
+      <h2>{t("programs.title")}</h2>
 
-      <div className="cards-row">
+      <div className="cards-grid">
 
         <div className="card">
-          <h3>Free Call</h3>
-          <p>Short diagnostic call to understand your needs.</p>
-          <a 
-            href="https://calendly.com/YOUR-LINK/free-call" 
-            className="button"
-            style={{ marginTop: "15px" }}
-          >
-            Book Free Call
-          </a>
+          <h3>{t("programs.freecall_title")}</h3>
+          <p>{t("programs.freecall_text")}</p>
+          <a href={CALENDLY_FREE} target="_blank" rel="noopener noreferrer" className="button small">{t("programs.freecall_cta")}</a>
         </div>
 
         <div className="card">
-          <h3>1-on-1 Mentoring</h3>
-          <p>Personalized AI coaching, prompts, and follow-up support.</p>
-          <a href="YOUR-PAYMENT-LINK" className="button" style={{ marginTop: "15px" }}>
-            Book Session
-          </a>
+          <h3>{t("programs.mentoring_title")}</h3>
+          <p>{t("programs.mentoring_text")}</p>
+          <a href={CALENDLY_MENTORING} target="_blank" rel="noopener noreferrer" className="button small">{t("programs.mentoring_cta")}</a>
         </div>
 
         <div className="card">
-          <h3>Group Program</h3>
-          <p>Learn fundamentals through structured modules.</p>
-          <a href="#" className="button" style={{ marginTop: "15px" }}>
-            Join Group
-          </a>
+          <h3>{t("programs.group_title")}</h3>
+          <p>{t("programs.group_text")}</p>
+          <a href={FORM_GROUP} target="_blank" rel="noopener noreferrer" className="button small">{t("programs.group_cta")}</a>
         </div>
 
         <div className="card">
-          <h3>Masterclass</h3>
-          <p>Advanced techniques + final project + certificate.</p>
-          <a href="#" className="button" style={{ marginTop: "15px" }}>
-            Apply Now
-          </a>
+          <h3>{t("programs.masterclass_title")}</h3>
+          <p>{t("programs.masterclass_text")}</p>
+          <a href={FORM_MASTERCLASS} target="_blank" rel="noopener noreferrer" className="button small">{t("programs.masterclass_cta")}</a>
         </div>
 
       </div>

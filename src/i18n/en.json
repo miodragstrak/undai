@@ -1,0 +1,88 @@
+{
+  "navbar": {
+    "home": "Home",
+    "programs": "Programs",
+    "book": "Book Call"
+  },
+  "hero": {
+    "title": "U&AI – Practical AI Coaching for Everyday Life",
+    "subtitle": "Learn how to use AI simply, effectively, and confidently in your daily life.",
+    "cta": "Book Free 15-Minute Call"
+  },
+
+  "learn": {
+    "title": "What You Will Learn",
+    "text": "Practical skills you can apply immediately – at home, at work, and in creative projects.",
+    "list": [
+      "Use AI to save time",
+      "Improve writing and communication",
+      "Organize your tasks and routines",
+      "Automate repetitive work",
+      "Boost creativity",
+      "Improve work efficiency",
+      "Build simple AI workflows"
+    ]
+  },
+
+  "steps": {
+    "title": "How It Works",
+    "step1_title": "Step 1",
+    "step1_text": "Free 15-minute call to understand your goals.",
+    "step2_title": "Step 2",
+    "step2_text": "AI coaching tailored to your needs.",
+    "step3_title": "Step 3",
+    "step3_text": "Learn practical skills and tools with guidance.",
+    "step4_title": "Step 4",
+    "step4_text": "Advanced sessions for mastering your workflows."
+  },
+
+  "programs": {
+    "title": "Choose Your Program",
+
+    "freecall_title": "Free Call",
+    "freecall_text": "Short session to understand your needs and goals.",
+    "freecall_cta": "Book Free Call",
+
+    "mentoring_title": "1-on-1 Mentoring",
+    "mentoring_text": "Personalized AI training, guidance, prompts, and workflows.",
+    "mentoring_cta": "Book Session",
+
+    "group_title": "Group Program",
+    "group_text": "Learn AI fundamentals through structured group sessions.",
+    "group_cta": "Join Group",
+
+    "masterclass_title": "Masterclass",
+    "masterclass_text": "Advanced techniques for building AI-powered workflows.",
+    "masterclass_cta": "Apply Now"
+  },
+
+  "why": {
+    "title": "Why U&AI?",
+    "list": [
+      "Practical, real-world examples",
+      "Clear explanations without technical jargon",
+      "Customized guidance for your goals",
+      "Supportive and friendly learning environment",
+      "Coaching based on modern AI tools"
+    ]
+  },
+
+  "cta": {
+    "title": "Ready to Start?",
+    "text": "Book a free introduction call and explore how AI can improve your everyday life.",
+    "button": "Book Free Call"
+  },
+
+  "footer": {
+    "tagline": "Learn to use AI with confidence.",
+    "rights": "All rights reserved."
+  },
+
+  "cta_buttons": {
+    "free_call": "Book Free Call",
+    "mentoring": "Book Session",
+    "group": "Join Group",
+    "masterclass": "Apply Now",
+    "final": "Book Free Call"
+  }
+}
