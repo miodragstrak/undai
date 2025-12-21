@@ -6,6 +6,7 @@ export default function Steps() {
   return (
     <section className="section" id="steps">
       <h2>{t("steps.title")}</h2>
+      <p>{t("steps.text")}</p>
 
       <div className="cards-grid">
         <div className="card">

@@ -6,86 +6,94 @@
   },
 
   "hero": {
-    "title": "U&AI – Praktičan AI koučing za svakodnevni život",
-    "subtitle": "Naučite kako da koristite veštačku inteligenciju jednostavno, efikasno i sa samopouzdanjem.",
+    "title": "UnAI - Praktična obuka za svakodnevno korišćenje AI",
+    "subtitle": "Naučite kako da koristite veštačku inteligenciju jednostavno, efikasno i sa samopouzdanjem (bez straha).",
     "cta": "Zakaži besplatan 15-minutni razgovor"
   },
 
   "learn": {
     "title": "Šta ćete naučiti",
-    "text": "Praktične veštine koje možete odmah primeniti – kod kuće, na poslu ili u kreativnim projektima.",
+    "text": "Praktične veštine koje možete odmah primeniti, kod kuće, na poslu ili u kreativnim projektima.",
     "list": [
       "Kako da uz pomoć AI uštedite vreme",
       "Kako da poboljšate pisanje i komunikaciju",
-      "Kako da organizujete obaveze i rutine",
-      "Kako da automatizujete ponavljajuće zadatke",
-      "Kako da povećate kreativnost",
-      "Kako da radite efikasnije",
-      "Kako da napravite jednostavne AI tokove rada"
+      "Kako da organizujete obaveze i dnevne aktivnosti",
+      "Kako da automatizujete zadatke koji se ponavljaju",
+      "Kako da na najbolji način prezentujete svoju kreativnost",
+      "Kako da radite brže i efikasnije",
+      "Kako da napravite jednostavne AI radne procese"
     ]
   },
 
-  "steps": {
-    "title": "Kako funkcioniše",
-    "step1_title": "Korak 1",
-    "step1_text": "Besplatan razgovor od 15 minuta da razumemo vaše ciljeve.",
-    "step2_title": "Korak 2",
-    "step2_text": "AI koučing prilagođen vašim potrebama.",
-    "step3_title": "Korak 3",
-    "step3_text": "Učenje praktičnih veština i alata, uz podršku.",
-    "step4_title": "Korak 4",
-    "step4_text": "Napredne sesije za potpuno savladavanje rada sa AI."
+  "collaboration": {
+    "title": "Kako radimo?",
+    "intro": "Svako ima drugačije ciljeve, tempo i nivo iskustva.\nUnAI nije linearni kurs, već fleksibilan sistem podrške.\nMožete ostati na jednom nivou ili se uključiti dublje kada to vama ima smisla.",
+    "intro_call_title": "Uvodni razgovor (besplatno)",
+    "intro_call_text": "Kratak razgovor od 15 minuta kako bismo razumeli vaše ciljeve i procenili na koji način AI može da vam pomogne.\nBez obaveza.",
+    "mentoring_title": "Mentorstvo 1-na-1",
+    "mentoring_text": "Personalizovana podrška prilagođena vašim potrebama.\nMožete ostati na ovom nivou koliko god želite - fokus je na praktičnoj primeni, alatima i konkretnim rezultatima.",
+    "group_title": "Rad u grupama",
+    "group_text": "Tematske radionice i grupni rad (npr. prompt engineering), namenjeni onima koji žele razmenu iskustava i učenje kroz praksu sa drugima.",
+    "masterclass_title": "Masterclass",
+    "masterclass_text": "Napredne teme kao što su automatizacija, AI procesi i alati poput n8n.\nZa one koji žele dublje i tehničkije razumevanje."
   },
 
   "programs": {
     "title": "Izaberite svoj program",
 
-    "freecall_title": "Besplatan razgovor",
-    "freecall_text": "Kratka sesija da razumemo vaše potrebe i ciljeve.",
+    "freecall_title": "Besplatne konsultacije",
+    "freecall_text": "Kratki razgovor da razumemo vaše potrebe i ciljeve.",
     "freecall_cta": "Zakaži razgovor",
 
     "mentoring_title": "Mentorstvo 1-na-1",
-    "mentoring_text": "Personalizovana obuka: alati, saveti, prompti i tokovi rada.",
-    "mentoring_cta": "Zakaži sesiju",
+    "mentoring_text": "Personalizovana obuka: alati, saveti, priprema procesa i samostalna izrada AI promptova.",
+    "mentoring_cta": "Zakaži termin",
     "mentoring_url": "https://forms.gle/7yFqTvgyMDDmgN7v6",
     "mentoring_promo": "PROMO • 999 RSD",
 
-    "group_title": "Grupni program",
-    "group_text": "Naučite osnove rada sa AI kroz grupne radionice.",
+    "group_title": "Rad u grupama",
+    "group_text": "Veštine i alati za praktično korišćenje AI.",
     "group_cta": "Pridruži se grupi",
 
     "masterclass_title": "Masterklas",
-    "masterclass_text": "Napredne tehnike za izgradnju AI tokova rada i automatizacija.",
+    "masterclass_text": "Napredne tehnike za izgradnju AI procesa i automatizacija.",
     "masterclass_cta": "Prijavi se"
   },
 
   "why": {
-    "title": "Zašto U&AI?",
+    "title": "Zašto UnAI?",
     "list": [
       "Praktični primeri iz realnog života",
       "Objašnjenja bez tehničkog žargona",
       "Program prilagođen vašim ciljevima",
-      "Podržavajuće i prijatno okruženje",
-      "Koučing zasnovan na savremenim AI alatima"
+      "Rad uživo i online",
+      "Obuka za korišćenje savremenih AI alata"
     ]
   },
 
   "cta": {
-    "title": "Spremni da počnemo?",
-    "text": "Zakažite besplatan uvodni razgovor i saznajte kako AI može olakšati vaš svakodnevni život.",
-    "button": "Zakaži besplatan razgovor"
+    "title": "Spremni?",
+    "text": "Zakažite besplatan uvodni razgovor i saznajte da li i kako AI može olakšati vaš svakodnevni život.",
+    "button": "Zakaži razgovor"
   },
 
   "footer": {
-    "tagline": "Naučite da koristite AI sa sigurnošću.",
+    "tagline": "Naučite da koristite AI bez straha od novih tehnologija.",
     "rights": "Sva prava zadržana."
   },
 
   "cta_buttons": {
     "free_call": "Zakaži razgovor",
-    "mentoring": "Zakaži sesiju",
+    "mentoring": "Zakaži termin",
     "group": "Pridruži se grupi",
     "masterclass": "Prijavi se",
     "final": "Zakaži besplatan razgovor"
-}
+  },
+
+  "instructor": {
+  "name": "Miodrag Strak",
+  "title": "AI mentor i produkt konsultant",
+  "bio": "Više od 20 godina iskustva u IT-ju i radu sa digitalnim alatima. Fokus mi je da AI učinim praktičnim i korisnim u svakodnevnom životu."
+  }
+
 }

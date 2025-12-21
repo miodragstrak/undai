@@ -30,13 +30,13 @@ export default function Navbar() {
 
         {/* LOGO */}
         <div className="navbar-logo">
-          <img src={Logo} alt="NelutAI Logo" style={{ height: "50px" }} />
+          <img src={Logo} alt="UnAI Logo" style={{ height: "50px" }} />
         </div>
 
         {/* LINKS */}
         <div className="navbar-links">
           <a href="#home">{t("navbar.home")}</a>
-          <a href="#programs">{t("navbar.programs")}</a>
+          <a href="#collaboration">{t("navbar.programs")}</a>
 
           <div className="lang-switcher">
             <img

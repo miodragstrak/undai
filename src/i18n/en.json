@@ -2,89 +2,97 @@
   "navbar": {
     "home": "Home",
     "programs": "Programs",
-    "book": "Book Call"
+    "book": "Book a Call"
   },
+
   "hero": {
-    "title": "U&AI – Practical AI Coaching for Everyday Life",
-    "subtitle": "Learn how to use AI simply, effectively, and confidently in your daily life.",
-    "cta": "Book Free 15-Minute Call"
+    "title": "UnAI - Practical Training for Everyday Use of AI",
+    "subtitle": "Learn how to use artificial intelligence simply, efficiently, and with confidence.",
+    "cta": "Book a Free 15-Minute Intro Call"
   },
 
   "learn": {
     "title": "What You Will Learn",
-    "text": "Practical skills you can apply immediately – at home, at work, and in creative projects.",
+    "text": "Practical skills you can apply immediately - at home, at work, or in creative projects.",
     "list": [
-      "Use AI to save time",
-      "Improve writing and communication",
-      "Organize your tasks and routines",
-      "Automate repetitive work",
-      "Boost creativity",
-      "Improve work efficiency",
-      "Build simple AI workflows"
+      "How to save time using AI",
+      "How to improve writing and communication",
+      "How to organize daily tasks and activities",
+      "How to automate repetitive tasks",
+      "How to present your creativity more effectively",
+      "How to work faster and more efficiently",
+      "How to build simple AI workflows"
     ]
   },
 
-  "steps": {
-    "title": "How It Works",
-    "step1_title": "Step 1",
-    "step1_text": "Free 15-minute call to understand your goals.",
-    "step2_title": "Step 2",
-    "step2_text": "AI coaching tailored to your needs.",
-    "step3_title": "Step 3",
-    "step3_text": "Learn practical skills and tools with guidance.",
-    "step4_title": "Step 4",
-    "step4_text": "Advanced sessions for mastering your workflows."
+  "collaboration": {
+    "title": "How We Can Work Together",
+    "intro": "Everyone has different goals, pace, and levels of experience.\nUnAI is not a linear course, but a flexible support system.\nYou can stay at one level or go deeper when it makes sense for you.",
+    "intro_call_title": "Intro Call (Free)",
+    "intro_call_text": "A short 15-minute call to understand your goals and assess how AI can help you.\nNo obligations.",
+    "mentoring_title": "1-on-1 Mentoring",
+    "mentoring_text": "Personalized support tailored to your needs.\nYou can stay at this level as long as it’s useful - with a strong focus on practical application, tools, and real results.",
+    "group_title": "Group Programs",
+    "group_text": "Thematic workshops and group sessions (e.g. prompt engineering) for those who want to learn through shared practice and discussion.",
+    "masterclass_title": "Masterclass",
+    "masterclass_text": "Advanced topics such as automation, AI workflows, and tools like n8n.\nDesigned for those who want a deeper, more technical understanding."
   },
 
   "programs": {
     "title": "Choose Your Program",
 
-    "freecall_title": "Free Call",
-    "freecall_text": "Short session to understand your needs and goals.",
-    "freecall_cta": "Book Free Call",
+    "freecall_title": "Free Consultation",
+    "freecall_text": "A short call to understand your needs and goals.",
+    "freecall_cta": "Book a Call",
 
     "mentoring_title": "1-on-1 Mentoring",
-    "mentoring_text": "Personalized AI training, guidance, prompts, and workflows.",
-    "mentoring_cta": "Book Session",
-    "mentoring_url": "https://forms.gle/serXGihngyGciz3B9",
+    "mentoring_text": "Personalized training: tools, guidance, workflow preparation, and hands-on creation of AI prompts.",
+    "mentoring_cta": "Book a Session",
+    "mentoring_url": "https://forms.gle/7yFqTvgyMDDmgN7v6",
     "mentoring_promo": "PROMO • $9.99",
 
-    "group_title": "Group Program",
-    "group_text": "Learn AI fundamentals through structured group sessions.",
-    "group_cta": "Join Group",
+    "group_title": "Group Programs",
+    "group_text": "Skills and tools for practical, real-world use of AI.",
+    "group_cta": "Join the Group",
 
     "masterclass_title": "Masterclass",
-    "masterclass_text": "Advanced techniques for building AI-powered workflows.",
+    "masterclass_text": "Advanced techniques for building AI workflows and automations.",
     "masterclass_cta": "Apply Now"
   },
 
   "why": {
-    "title": "Why U&AI?",
+    "title": "Why UnAI?",
     "list": [
       "Practical, real-world examples",
       "Clear explanations without technical jargon",
-      "Customized guidance for your goals",
-      "Supportive and friendly learning environment",
-      "Coaching based on modern AI tools"
+      "Programs tailored to your goals",
+      "Live and online sessions",
+      "Training focused on modern AI tools"
     ]
   },
 
   "cta": {
-    "title": "Ready to Start?",
-    "text": "Book a free introduction call and explore how AI can improve your everyday life.",
-    "button": "Book Free Call"
+    "title": "Ready to Get Started?",
+    "text": "Book a free introductory call and find out if - and how - AI can improve your everyday life.",
+    "button": "Book a Free Call"
   },
 
   "footer": {
-    "tagline": "Learn to use AI with confidence.",
+    "tagline": "Learn to use AI without fear of new technologies.",
     "rights": "All rights reserved."
   },
 
   "cta_buttons": {
-    "free_call": "Book Free Call",
-    "mentoring": "Book Session",
-    "group": "Join Group",
+    "free_call": "Book a Call",
+    "mentoring": "Book a Session",
+    "group": "Join the Group",
     "masterclass": "Apply Now",
-    "final": "Book Free Call"
+    "final": "Book a Free Call"
+  },
+
+  "instructor": {
+  "name": "Miodrag Strak",
+  "title": "AI Mentor and Product Consultant",
+  "bio": "Over 20 years of experience in IT and working with digital tools. My focus is on making AI practical and useful in everyday life."
   }
 }

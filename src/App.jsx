@@ -6,6 +6,8 @@ import WhyUnAI from "./components/WhyUnAI";
 import FinalCTA from "./components/FinalCTA";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
+import Collaboration from "./components/Collaboration";
+import Instructor from "./components/Instructor";
 
 export default function App() {
   return (
@@ -13,8 +15,8 @@ export default function App() {
       <Navbar />
       <Hero />
       <WhatYouLearn />
-      <Steps />
-      <Programs />
+      <Collaboration />
+      <Instructor />
       <WhyUnAI />
       <FinalCTA />
       <Footer />

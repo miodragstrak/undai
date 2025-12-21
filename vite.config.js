@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/undai/", // MUST match your repo name
+  base: "/unai/", // MUST match your repo name
 });
