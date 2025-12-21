@@ -19,7 +19,7 @@
       "How to improve writing and communication",
       "How to organize daily tasks and activities",
       "How to automate repetitive tasks",
-      "How to present your creativity more effectively",
+      "How to express your creativity more effectively",
       "How to work faster and more efficiently",
       "How to build simple AI workflows"
     ]
@@ -92,7 +92,7 @@
 
   "instructor": {
   "name": "Miodrag Strak",
-  "title": "AI Mentor and Product Consultant",
-  "bio": "Over 20 years of experience in IT and working with digital tools. My focus is on making AI practical and useful in everyday life."
+  "title": "AI Mentor",
+  "bio": "With over 25 years of experience working with public and private universities, international projects, the financial sector, and companies, I operate at the intersection of education, mentoring, and real-world AI implementation. Through long-term mentoring of young people and professionals, I focus on making artificial intelligence understandable, practical, and independently usable. In parallel, I actively design and implement AI systems — from automation pipelines and AI agents to production-ready solutions in real business environments. My approach combines academic insight, mentoring experience, and hands-on AI development."
   }
 }

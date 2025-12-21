@@ -19,7 +19,7 @@
       "Kako da poboljšate pisanje i komunikaciju",
       "Kako da organizujete obaveze i dnevne aktivnosti",
       "Kako da automatizujete zadatke koji se ponavljaju",
-      "Kako da na najbolji način prezentujete svoju kreativnost",
+      "Kako da na najbolji način izrazite svoju kreativnost",
       "Kako da radite brže i efikasnije",
       "Kako da napravite jednostavne AI radne procese"
     ]
@@ -92,8 +92,8 @@
 
   "instructor": {
   "name": "Miodrag Strak",
-  "title": "AI mentor i produkt konsultant",
-  "bio": "Više od 20 godina iskustva u IT-ju i radu sa digitalnim alatima. Fokus mi je da AI učinim praktičnim i korisnim u svakodnevnom životu."
+  "title": "AI mentor",
+  "bio": "Više od 25 godina rada na državnim i privatnim fakultetima, na međunarodnim projektima, u finansijskom sektoru i u kompanijama.\n Kroz dugogodišnji mentorski rad sa mladima i profesionalcima, fokusiram se na razumevanje, praktičnu primenu i samostalno korišćenje veštačke inteligencije. Paralelno sa edukacijom, aktivno sam uključen u dizajn i implementaciju AI sistema – od automatizacija i AI agenata do produkcionih rešenja u realnim poslovnim okruženjima.\n Moj pristup kombinuje akademsko znanje, mentorski rad i hands-on iskustvo."
   }
 
 }
