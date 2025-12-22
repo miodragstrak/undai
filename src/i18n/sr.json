@@ -13,7 +13,7 @@
 
   "learn": {
     "title": "Šta ćete naučiti",
-    "text": "Praktične veštine koje možete odmah primeniti, kod kuće, na poslu ili u kreativnim projektima.",
+    "text": "Praktične veštine koje možete odmah primeniti - kod kuće, na poslu ili u kreativnim projektima.",
     "list": [
       "Kako da uz pomoć AI uštedite vreme",
       "Kako da poboljšate pisanje i komunikaciju",
@@ -27,15 +27,15 @@
 
   "collaboration": {
     "title": "Kako radimo?",
-    "intro": "Svako ima drugačije ciljeve, tempo i nivo iskustva.\nUnAI nije linearni kurs, već fleksibilan sistem podrške.\nMožete ostati na jednom nivou ili se uključiti dublje kada to vama ima smisla.",
+    "intro": "Svako ima drugačije ciljeve, ritam i nivo iskustva.\nUnAI nije linearni kurs, već fleksibilan sistem podrške.\nMožete ostati na jednom nivou ili se dalje uključiti, onda kada to vama ima smisla.",
     "intro_call_title": "Uvodni razgovor (besplatno)",
-    "intro_call_text": "Kratak razgovor od 15 minuta kako bismo razumeli vaše ciljeve i procenili na koji način AI može da vam pomogne.\nBez obaveza.",
+    "intro_call_text": "Kratak razgovor od 15 minuta kako bismo razumeli vaše ciljeve i procenili na koji način AI može da vam pomogne.\nBez stvaranja obeveze nastavljanja.",
     "mentoring_title": "Mentorstvo 1-na-1",
     "mentoring_text": "Personalizovana podrška prilagođena vašim potrebama.\nMožete ostati na ovom nivou koliko god želite - fokus je na praktičnoj primeni, alatima i konkretnim rezultatima.",
     "group_title": "Rad u grupama",
     "group_text": "Tematske radionice i grupni rad (npr. prompt engineering), namenjeni onima koji žele razmenu iskustava i učenje kroz praksu sa drugima.",
     "masterclass_title": "Masterclass",
-    "masterclass_text": "Napredne teme kao što su automatizacija, AI procesi i alati poput n8n.\nZa one koji žele dublje i tehničkije razumevanje."
+    "masterclass_text": "Napredne teme kao što su automatizacija, AI procesi i alati poput n8n.\nZa one koji žele temeljnije razumevanje, sa više tehničkih detalja."
   },
 
   "programs": {
@@ -64,7 +64,7 @@
     "title": "Zašto UnAI?",
     "list": [
       "Praktični primeri iz realnog života",
-      "Objašnjenja bez tehničkog žargona",
+      "Objašnjenja bez tehničkih termina",
       "Program prilagođen vašim ciljevima",
       "Rad uživo i online",
       "Obuka za korišćenje savremenih AI alata"

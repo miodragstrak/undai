@@ -6,9 +6,9 @@
   },
 
   "hero": {
-    "title": "UnAI - Practical Training for Everyday Use of AI",
-    "subtitle": "Learn how to use artificial intelligence simply, efficiently, and with confidence.",
-    "cta": "Book a Free 15-Minute Intro Call"
+    "title": "UnAI - Practical Training for Everyday AI Use",
+    "subtitle": "Learn how to use artificial intelligence simply, effectively, and with confidence (without fear).",
+    "cta": "Book a free 15-minute call"
   },
 
   "learn": {
@@ -17,25 +17,25 @@
     "list": [
       "How to save time using AI",
       "How to improve writing and communication",
-      "How to organize daily tasks and activities",
+      "How to organize tasks and daily activities",
       "How to automate repetitive tasks",
-      "How to express your creativity more effectively",
+      "How to best express your creativity using AI",
       "How to work faster and more efficiently",
       "How to build simple AI workflows"
     ]
   },
 
   "collaboration": {
-    "title": "How We Can Work Together",
-    "intro": "Everyone has different goals, pace, and levels of experience.\nUnAI is not a linear course, but a flexible support system.\nYou can stay at one level or go deeper when it makes sense for you.",
-    "intro_call_title": "Intro Call (Free)",
-    "intro_call_text": "A short 15-minute call to understand your goals and assess how AI can help you.\nNo obligations.",
+    "title": "How We Work",
+    "intro": "Everyone has different goals, pace, and levels of experience.\nUnAI is not a linear course, but a flexible support system.\nYou can stay at one level or continue further - whenever it makes sense for you.",
+    "intro_call_title": "Introductory Call (Free)",
+    "intro_call_text": "A short 15-minute call to understand your goals and assess how AI can help you.\nNo obligation to continue.",
     "mentoring_title": "1-on-1 Mentoring",
-    "mentoring_text": "Personalized support tailored to your needs.\nYou can stay at this level as long as it’s useful - with a strong focus on practical application, tools, and real results.",
+    "mentoring_text": "Personalized support tailored to your needs.\nYou can stay at this level as long as you wish - the focus is on practical application, tools, and tangible results.",
     "group_title": "Group Programs",
-    "group_text": "Thematic workshops and group sessions (e.g. prompt engineering) for those who want to learn through shared practice and discussion.",
+    "group_text": "Thematic workshops and group sessions (e.g. prompt engineering), designed for those who want peer learning and hands-on experience with others.",
     "masterclass_title": "Masterclass",
-    "masterclass_text": "Advanced topics such as automation, AI workflows, and tools like n8n.\nDesigned for those who want a deeper, more technical understanding."
+    "masterclass_text": "Advanced topics such as automation, AI processes, and tools like n8n.\nFor those who want deeper understanding with more technical detail."
   },
 
   "programs": {
@@ -46,35 +46,35 @@
     "freecall_cta": "Book a Call",
 
     "mentoring_title": "1-on-1 Mentoring",
-    "mentoring_text": "Personalized training: tools, guidance, workflow preparation, and hands-on creation of AI prompts.",
+    "mentoring_text": "Personalized training: tools, guidance, process design, and independent creation of AI prompts.",
     "mentoring_cta": "Book a Session",
     "mentoring_url": "https://forms.gle/7yFqTvgyMDDmgN7v6",
-    "mentoring_promo": "PROMO • $9.99",
+    "mentoring_promo": "PROMO • €8.99",
 
     "group_title": "Group Programs",
-    "group_text": "Skills and tools for practical, real-world use of AI.",
-    "group_cta": "Join the Group",
+    "group_text": "Skills and tools for practical everyday use of AI.",
+    "group_cta": "Join a Group",
 
     "masterclass_title": "Masterclass",
-    "masterclass_text": "Advanced techniques for building AI workflows and automations.",
-    "masterclass_cta": "Apply Now"
+    "masterclass_text": "Advanced techniques for building AI processes and automations.",
+    "masterclass_cta": "Apply"
   },
 
   "why": {
     "title": "Why UnAI?",
     "list": [
-      "Practical, real-world examples",
+      "Practical real-world examples",
       "Clear explanations without technical jargon",
-      "Programs tailored to your goals",
+      "Programs adapted to your personal goals",
       "Live and online sessions",
       "Training focused on modern AI tools"
     ]
   },
 
   "cta": {
-    "title": "Ready to Get Started?",
-    "text": "Book a free introductory call and find out if - and how - AI can improve your everyday life.",
-    "button": "Book a Free Call"
+    "title": "Ready?",
+    "text": "Book a free introductory call and discover if - and how - AI can simplify your everyday life.",
+    "button": "Book a Call"
   },
 
   "footer": {
@@ -85,14 +85,14 @@
   "cta_buttons": {
     "free_call": "Book a Call",
     "mentoring": "Book a Session",
-    "group": "Join the Group",
-    "masterclass": "Apply Now",
+    "group": "Join a Group",
+    "masterclass": "Apply",
     "final": "Book a Free Call"
   },
 
   "instructor": {
-  "name": "Miodrag Strak",
-  "title": "AI Mentor",
-  "bio": "With over 25 years of experience working with public and private universities, international projects, the financial sector, and companies, I operate at the intersection of education, mentoring, and real-world AI implementation. Through long-term mentoring of young people and professionals, I focus on making artificial intelligence understandable, practical, and independently usable. In parallel, I actively design and implement AI systems — from automation pipelines and AI agents to production-ready solutions in real business environments. My approach combines academic insight, mentoring experience, and hands-on AI development."
+    "name": "Miodrag Strak",
+    "title": "AI Mentor",
+    "bio": "With over 25 years of experience working with public and private universities, international projects, the financial sector, and companies, I bring together education and real-world practice.\nThrough long-term mentoring of young people and professionals, my focus is on understanding, practical application, and independent use of artificial intelligence. Alongside education, I am actively involved in the design and implementation of AI systems - from automations and AI agents to production-ready solutions in real business environments.\nMy approach combines academic knowledge, mentoring experience, and hands-on work."
   }
 }
